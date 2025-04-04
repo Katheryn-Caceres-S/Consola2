@@ -1,2 +1,2 @@
 # Consola2
-Taller consola Revisión 2
+Taller Consola - Dia 2
